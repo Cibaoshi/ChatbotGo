@@ -31,6 +31,6 @@
 - Key security: The API key is loaded from an environment variable (`GEMINI_API_KEY`), preventing its accidental publication in the source code. 
 
 
-#### ⚡Potential for expansion
+#### 💻 interface
 
-  The current CLI interface can be easily converted into a local web server using the net/http package to create a minimal web chat interface, or into a library for larger Go applications.’
+When hosted, it generates a simple HTML interface in a browser window.
