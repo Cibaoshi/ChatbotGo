@@ -33,4 +33,4 @@
 
 # 💻 interface
 
-When hosted, it generates a simple HTML interface in a browser window.
+When hosted, it generates a modern and attractive HTML interface in a browser window.
