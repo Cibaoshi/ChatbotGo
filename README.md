@@ -3,7 +3,7 @@
 
   A simple and robust console chatbot developed in Go (Golang) to interact with the Google Gemini 2.5 Flash language model via a direct REST API call. The project demonstrates fundamental skills in integrating with external AI services and correctly handling network errors.
 
-## ⚙️Technology stack and tools
+## Technology stack and tools
 
 
 -   Programming language: Go (Golang)
@@ -19,7 +19,7 @@
 -   Environment: Console (CLI) application (UPD. added web interface)
 
 
-# 🔑 Key features and characteristics
+#  Key features and characteristics
 
 1. Stability and error handling
 - Reliable API error handling: HTTP status checks (`200 OK`, `404`, `503`, etc.) are included, ensuring correct programme termination in case of server or API key issues.
@@ -32,6 +32,6 @@
 - Key security: The API key is loaded from an environment variable (`GEMINI_API_KEY`), preventing its accidental publication in the source code. 
 
 
-# 💻 interface
+#  interface
 
 When hosted, it generates a modern and attractive HTML interface in a browser window.
